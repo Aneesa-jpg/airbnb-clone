@@ -45,7 +45,6 @@ const Home = () => {
           price="£70/night"
         />
       </div>
-      <Footer />
     </div>
   );
 };
