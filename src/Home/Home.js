@@ -1,6 +1,7 @@
 import React from "react";
 import Banner from "../Banner/Banner";
 import Card from "../Card/Card";
+import Footer from "../Footer/Footer";
 import "./Home.css";
 
 const Home = () => {
@@ -44,6 +45,7 @@ const Home = () => {
           price="£70/night"
         />
       </div>
+      <Footer />
     </div>
   );
 };
